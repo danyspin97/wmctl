@@ -29,7 +29,7 @@ or disconnected by using the command `wmctl wait-for-output-changes`.
 
 ## Projects using wmctl
 
-- [_lumactl_](https://github.com/danyspin97/wmctl)
+- [_lumactl_](https://github.com/danyspin97/lumactl)
 
 ## License
 
