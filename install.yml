@@ -1,0 +1,6 @@
+rinstall: 0.2.0
+pkgs:
+  wmctl:
+    type: rust
+    exe:
+      - wmctl
